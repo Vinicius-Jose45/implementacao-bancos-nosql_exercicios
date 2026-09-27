@@ -1,5 +1,0 @@
-pandas
-geopandas
-pymongo
-requests
-shapely
