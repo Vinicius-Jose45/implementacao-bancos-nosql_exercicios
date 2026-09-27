@@ -2,7 +2,7 @@
 
 Repositório com as atividades práticas desenvolvidas na disciplina de Implementação e Gerenciamento de Bancos de Dados NoSQL.
 
-## Grupo
+## Integrantes do Grupo
 
 - Vinicius José de Sousa
 - Felipe Leal da Costa Martins Filho
